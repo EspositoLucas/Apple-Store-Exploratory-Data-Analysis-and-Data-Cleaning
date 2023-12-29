@@ -47,7 +47,7 @@ Feel free to adapt the SQL queries or further customize the analysis based on sp
 
 ## Results
 
-The results of the analysis, including key insights and conclusions, can be found in the corresponding sections of the README.
+The results of the analysis, including key insights and conclusions, can be found in the corresponding [sql script](eda_apple_store.sql) provided.
 
 ## Conclusion
 
