@@ -6,7 +6,7 @@ This project focuses on conducting Exploratory Data Analysis (EDA) and Data Clea
 
 ## Project Goals
 
-1. **Combine Datasets:** Merge multiple datasets containing Apple Store app descriptions into a unified dataset for comprehensive analysis.
+1. **Combine Datasets:** Merge multiple datasets containing Apple Store app descriptions into a unified [dataset](dataset/) for comprehensive analysis.
 
 2. **Exploratory Data Analysis (EDA):**
    - Identify the number of unique apps in the combined dataset.
